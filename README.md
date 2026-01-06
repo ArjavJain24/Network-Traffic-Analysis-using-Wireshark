@@ -7,12 +7,6 @@ This project focuses on analyzing captured network traffic using **Wireshark** t
 
 ---
 
-# ✅ 2. Network Traffic Analysis using Wireshark  
-**README.md (Industry Level)**
-
-```md
-# Network Traffic Analysis using Wireshark
-
 ## 📌 Overview
 This project focuses on analyzing captured network traffic using **Wireshark** to identify anomalies, suspicious communication patterns, and potential network-based attacks.
 
