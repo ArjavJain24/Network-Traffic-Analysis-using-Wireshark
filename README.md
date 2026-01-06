@@ -29,9 +29,15 @@ This project focuses on analyzing captured network traffic using **Wireshark** t
 
 ## 📂 Project Structure
 Network-Traffic-Analysis-Wireshark/
+│
 ├── pcaps/
-├── filters/
+│
 ├── analysis/
+│ └── findings.txt
+│
+├── filters/
+│ └── wireshark_filters.txt
+│
 └── README.md
 
 ---
